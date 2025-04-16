@@ -83,3 +83,33 @@ This study identified computational features, formulated design requirements, an
   1. 利用LLM实现医疗问诊小助手，利用Bert对问题进行分类，利用RAG、CoT、Langchain微调医疗大模型。
   2.	参与医疗大健康项目，使用ETL工具（Kettle）对分散在各个社区、二三甲医院的数据转换整理到大数据库中。
   3.	竞品分析，PRD文档编写，使用Azure进行系统设计。
+
+# Projects
+- ExplainableBI：基于人机协同的NL2BI可信增强方案（CCF-A会议论文，在投）	-	第一作者 2025年01月-2025年04月
+  - 项目职责：文献调研；用户访谈（需求调研）；使用Figma进行系统原型设计；使用Langchain、Vue、element-plus、Axios、FastAPI、
+  RAG、In-context	learning（ICT）、CoT等技术实现基于text-to-sql的具有可解释功能的LLM-based	BI应用；用户体验设计；用户实
+  验。
+
+- LLM4VA：基于Multi-Agent的可视化分析系统原型设计（CCF-A会议论文，在投）	-	第三作者 2025年01月-2025年04月
+  - 项目背景：该项目旨在利用LLM构建5个智能体，分别为data	analyst、domain	expert、searcher、designer、coder，每个智能体模拟可视
+  化分析人员在完成每个可视化分析系统的步骤，从而帮助可视化分析人员设计并实现一个可视化分析系统的原型。
+  - 项目职责：利用BeautifulSoup、requests爬取可视化分析领域的学术论文；利用Langchain实现designer和coder两个Agent，designer负责
+  得出设计目标和每个可视化视图的内容和位置，coder基于vue3框架和d3.js生成每个视图的可视化分析代码。
+
+- Danmaku	Avatar：基于弹幕实现VR中的虚拟共同观看者（CCF-A，已收录）	-	第一作者 2024年06月-2024年09月
+  - 项目职责：文献调研；用户访谈（需求分析）；设计研讨会；使用request进行数据爬取；python数据处理和分析；使用Bert和ERNIE
+  进行预训练、文本分类、情感识别；使用Character	Creator	4设计虚拟人形象、骨骼绑定；文本转语音；使用Unity构建虚拟场景并实现
+  与虚拟人进行共同观看视频，文本转语音，利用LLM实现实时语音、动作、眼神交互;	用户体验设计；用户实验，EEG信号分析。
+
+- DIVAS驾驶行为可视化分析系统（ChainVis2023	数据可视化挑战赛	三等奖）	-	第二作者 2023年04月-2024年06月
+  - 项目职责：使用Python处理和分析车辆驾驶数据得到车辆加速、减速、刹车，车辆变道，车辆占道、人车距离、车辆停车线减速、车
+  辆间距等结果；利用TSNE、DBSCAN进行驾驶行为的降维和聚类；利用jsonVee、d3.js可视化这里数据追踪每位驾驶人的车辆行驶路
+  径和行为。
+
+- 基于收购事件的人才流动对创新能力影响的可视化分析系统（CCF-A，在投）	-	第三作者 2023年07月-2023年09月
+  - 项目职责：对AI领域的专利和论文以及收购事件的数据进行python数据处理、数据分析；利用机器学习算法TSNE、Kmeans、Shape进
+  行数据降维、聚类、评估；使用vue、d3.js	实现可视化视图。
+
+- 医疗大数据分析平台	-	第一作者 2021年12月-2022年03月
+  - 项目职责：利用SpringBoot、mybatis、echarts、Spark、Spark	SQL、Hive处理和分析全国各医院数据、在线诊疗医师数据、在售各类药
+  品数据、各类药房数据数据，将分析结构制作了10个可视化分析大屏。
