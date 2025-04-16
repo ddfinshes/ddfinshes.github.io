@@ -26,14 +26,16 @@ I am a second-year master student from [School of Information Science and Techno
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CHI2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/TVCG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education
+From Requirement to Solution: Unveiling Problem-Driven Design Patterns in Visual Analytics
 
-**Yuansong Xu**, Yuheng Shao, Jiahe Dong, Shaohan Shi, Chang Jiang, Quan Li
+Yuchen Wu, Shenghan Gao, Shizhen Zhang, **Xiaofeng Dou**, Xingbo Wang, Quan Li
 
-Conditionally Accepted by CHI 2025
+[**PDF**](https://ieeexplore.ieee.org/abstract/document/10874217) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'></span></strong><br>
+[**Website**](https://upddp.github.io/) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'></span></strong><br>
+This study identified computational features, formulated design requirements, and developed LiveRetro , an interactive visual analytics system. It enables comprehensive retrospective analysis of livestream e-commerce for streamers, viewers, and merchandise. LiveRetro employs enhanced visualization and time-series forecasting models to align performance features and feedback, identifying influences at channel, merchandise, feature, and segment levels.
 </div>
 </div>
 
