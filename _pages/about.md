@@ -55,14 +55,14 @@ This study identified computational features, formulated design requirements, an
 </div>
 
 # 🎖 Honors and Awards
-- ChinaVis	2023	中国可视化与可视分析大会	“数字中国”数据可视化竞赛	三等奖 2023.07
-- ACM-ICPC	2020中国大学生程序设计竞赛（西部）	铜牌  2020.11
-- 第十五届全国大学生计算机设计大赛人工智能实践赛	省赛三等奖 2022.05
-- 第十四届全国大学生计算机设计大赛算法设计组	国赛三等奖 2021.07
-- 第十一届蓝桥杯全国软件和信息技术专业人才大赛	国赛三等奖 2020.11
-- 第四届中国虚拟现实大赛	国赛三等奖 2021.10
-- 第十二届“挑战杯”全区大学生课外学术科技作品竞赛	省赛银奖 2021.06
-- 华北五省（市、自治区）及港澳台大学生计算机应用大赛	大区三等奖 2021.11
+- *ChinaVis	2023	中国可视化与可视分析大会*	“数字中国”数据可视化竞赛	三等奖 2023.07
+- *ACM-ICPC	2020中国大学生程序设计竞赛（西部）*	铜牌  2020.11
+- *第十五届全国大学生计算机设计大赛人工智能实践赛*	省赛三等奖 2022.05
+- *第十四届全国大学生计算机设计大赛算法设计组*	国赛三等奖 2021.07
+- *第十一届蓝桥杯全国软件和信息技术专业人才大赛*	国赛三等奖 2020.11
+- *第四届中国虚拟现实大赛*	国赛三等奖 2021.10
+- *第十二届“挑战杯”全区大学生课外学术科技作品竞赛*	省赛银奖 2021.06
+- *华北五省（市、自治区）及港澳台大学生计算机应用大赛*	大区三等奖 2021.11
  
 
 # 📖 Educations
@@ -74,4 +74,12 @@ This study identified computational features, formulated design requirements, an
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *安德阿镆贸易（上海）有限公司*	-	大模型应用实习生	IT 2024.12 - 2025.04
+  1.	ChatBI项目开发和测试：构建企业知识库，使用Python和Ollama接入LLM（大语言模型），使得LLM能够基于文本生成SQL代码并
+  得到BI结果。编写SQL代码测试LLM的输出结果是否与编写的SQL代码查询一致。在此过程中，基于LLM驱动的BI系统目前面临的挑
+  战，提出并实现了ExplainableBI，并已提交至CCF-A类会议。
+  2.	神秘访客Agent：利用LLM构建训练销售的虚拟顾客。参与用户需求调研、工作流构建、产品知识库构建，测试agent表现行为。
+- *上海信投数字科技有限公司*	数据实习生 2024.09 - 2024.12
+  1. 利用LLM实现医疗问诊小助手，利用Bert对问题进行分类，利用RAG、CoT、Langchain微调医疗大模型。
+  2.	参与医疗大健康项目，使用ETL工具（Kettle）对分散在各个社区、二三甲医院的数据转换整理到大数据库中。
+  3.	竞品分析，PRD文档编写，使用Azure进行系统设计。
